@@ -2,6 +2,18 @@
 
 All notable changes to Haven are recorded here. This project uses [Semantic Versioning](https://semver.org/); versions below 1.0 are pre-release.
 
+## [0.2.1-beta] — 2026-11-16
+
+### Added
+- Guest **Amenities** (`/amenities`) and **Checkout** (`/checkout`) pages, in English and Spanish, linked from the guest app bar.
+- **Exit** button in the guest app bar (Salir in Spanish) that returns to the Haven home page.
+
+### Changed
+- Guests now find their reservation with **last name + phone number** instead of check-in date.
+
+### Fixed
+- Language switch: every EN / ES button is now a direct page link instead of a component variable, so switching navigates instantly in both directions.
+
 ## [0.2.0-beta] — 2026-11-16
 
 ### Added

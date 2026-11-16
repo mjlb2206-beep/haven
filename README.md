@@ -13,8 +13,10 @@ Haven is a digital guest experience platform for short-term rentals, boutique st
 | Page | Path | Notes |
 | --- | --- | --- |
 | Landing | `/` | Marketing site: guest journey, dashboard preview, contextual "right now" demo, property guide, local guide, support, guest pass, white-label section, hosts, benefits, how it works |
-| Find My Stay | `/find-my-stay` | Guest lookup with last name + check-in date (no account) |
+| Find My Stay | `/find-my-stay` | Guest lookup with last name + phone number (no account) |
 | Guest Portal | `/guest` | Host-branded portal (Palm Stays): right-now cards, reservation, check-in status, guest pass, Need help?, Stay with us again |
+| Amenities | `/amenities` | Pool, gym, bikes, EV charger, Wi-Fi and more, each with a one-tap request |
+| Checkout | `/checkout` | Countdown, tap-to-complete checklist, late checkout / luggage / ride extras, review, "I've checked out" |
 | Property Guide | `/guide` | Expandable instructions, amenities, safety |
 | Local Guide | `/local` | Neighborhood map, host picks, essentials |
 | Support | `/support` | Quick actions, tracked requests, chat, emergency info |
