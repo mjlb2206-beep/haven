@@ -2,6 +2,16 @@
 
 All notable changes to Haven are recorded here. This project uses [Semantic Versioning](https://semver.org/); versions below 1.0 are pre-release.
 
+## [0.2.0-beta] — 2026-11-16
+
+### Added
+- **Full host platform:** Properties (+ detail), Reservations with status tabs (+ detail), Guests with search, Messages inbox, Requests board, Local Guides with category filters and an "Add place" modal, Analytics, Settings. The sidebar works on every host page.
+- **Spanish everywhere:** every page now has an `/es/...` twin, translated, using Spanish CMS fields and Spanish copies of shared components.
+- `i18n/es-full.json`: complete Spanish string table.
+
+### Fixed
+- **Language switch:** switching from Spanish back to English no longer hangs. Each page's switch now links explicitly to its own English and Spanish versions.
+
 ## [0.1.0-beta] — 2026-11-16
 
 First beta of the Haven prototype, built in Framer.
@@ -16,5 +26,4 @@ First beta of the Haven prototype, built in Framer.
 
 ### Known limitations
 - Prototype only. No backend, authentication or saved settings.
-- Only the main guest portal page has a Spanish version.
 - No booking-channel integrations by design for this version.
