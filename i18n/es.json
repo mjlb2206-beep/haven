@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "myStay": "Mi estadía",
+    "propertyGuide": "Guía",
+    "amenities": "Amenidades",
+    "localGuide": "Guía local",
+    "support": "Ayuda",
+    "checkout": "Salida"
+  },
+  "tabbar": {
+    "home": "Inicio",
+    "stay": "Estadía",
+    "guide": "Guía",
+    "support": "Ayuda"
+  },
+  "host": {
+    "hostedBy": "Tu estadía es con",
+    "poweredBy": "Con tecnología de Haven"
+  },
+  "welcome": {
+    "title": "Bienvenida, {firstName} 👋",
+    "nights": "{dates} · {n} noches",
+    "guests": "{n} huéspedes",
+    "checkedIn": "Check-in hecho"
+  },
+  "now": {
+    "wifi": {
+      "connected": "Conectado"
+    },
+    "copy": "Copiar",
+    "doorAccess": "Acceso a la puerta",
+    "tapToUnlock": "Toca para abrir",
+    "checkoutIn": "Salida en",
+    "days": "días"
+  },
+  "reservation": {
+    "title": "Resumen de la reserva",
+    "checkIn": "Entrada",
+    "checkout": "Salida",
+    "guests": "Huéspedes",
+    "unit": "Unidad",
+    "parking": "Estacionamiento",
+    "bedrooms": "Habitaciones"
+  },
+  "status": {
+    "title": "Estado del check-in",
+    "completed": "Completado ✓",
+    "booked": "Reservado",
+    "idVerified": "ID verificada",
+    "codeSent": "Código enviado"
+  },
+  "recs": {
+    "title": "Recomendaciones de hoy",
+    "seeAll": "Ver guía local →"
+  },
+  "pass": {
+    "title": "Pase digital del huésped",
+    "addToWallet": "Añadir a Wallet"
+  },
+  "help": {
+    "title": "¿Necesitas ayuda?",
+    "reach": "Contacta a {business} directamente: solemos responder en minutos.",
+    "phone": "Teléfono / WhatsApp",
+    "email": "Correo",
+    "instagram": "Instagram",
+    "caretaker": "Encargada en el edificio",
+    "messageHost": "Escribir al anfitrión",
+    "requestTowels": "Pedir toallas"
+  },
+  "checkout": {
+    "title": "Hacemos fácil tu última mañana.",
+    "luggage": "Guardamos tu equipaje hasta las 16:00",
+    "dishwasher": "Pon el lavavajillas",
+    "towels": "Junta las toallas usadas",
+    "keys": "Deja las llaves en la encimera",
+    "lock": "Cierra la puerta"
+  },
+  "again": {
+    "title": "Vuelve a hospedarte con nosotros",
+    "body": "Reserva directo con la mejor tarifa: si regresas tienes 10% de descuento y entrada anticipada cuando haya disponibilidad.",
+    "cta": "Reserva tu próxima estadía"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$description": "Per-host branding profile. In the Framer prototype this is the 'Host Brands' CMS collection; guest portal sections bind to these fields.",
+  "type": "object",
+  "required": ["businessName", "slug", "primaryColor"],
+  "properties": {
+    "businessName":   { "type": "string" },
+    "slug":           { "type": "string" },
+    "logo":           { "type": "string", "description": "Image URL (square SVG/PNG, max 2 MB)" },
+    "primaryColor":   { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "accentColor":    { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "tagline":        { "type": "string" },
+    "phone":          { "type": "string" },
+    "whatsapp":       { "type": "string" },
+    "email":          { "type": "string" },
+    "instagram":      { "type": "string" },
+    "website":        { "type": "string" },
+    "caretaker":      { "type": "string" },
+    "caretakerPhone": { "type": "string" },
+    "languages":      { "type": "array", "items": { "enum": ["en", "es", "ru"] } },
+    "showPoweredByHaven": { "type": "boolean", "default": true }
+  }
+}

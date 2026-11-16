@@ -1,0 +1,36 @@
+[
+  {
+    "businessName": "Palm Stays",
+    "slug": "palm-stays",
+    "logo": "brand/palm-stays-logo.svg",
+    "primaryColor": "#1E5B6E",
+    "accentColor": "#F2B880",
+    "tagline": "Boutique stays on Miami Beach",
+    "phone": "+1 (305) 555-0188",
+    "whatsapp": "+1 (305) 555-0188",
+    "email": "hello@palmstays.com",
+    "instagram": "@palmstays.miami",
+    "website": "palmstays.com",
+    "caretaker": "Marta Pérez",
+    "caretakerPhone": "+1 (305) 555-0142",
+    "languages": ["en", "es", "ru"],
+    "showPoweredByHaven": true
+  },
+  {
+    "businessName": "Casa Sol Rentals",
+    "slug": "casa-sol-rentals",
+    "logo": "brand/casa-sol-logo.svg",
+    "primaryColor": "#8A3B2E",
+    "accentColor": "#F4D6A8",
+    "tagline": "Sunny homes in Cartagena",
+    "phone": "+57 300 555 0199",
+    "whatsapp": "+57 300 555 0199",
+    "email": "hola@casasolrentals.co",
+    "instagram": "@casasolrentals",
+    "website": "casasolrentals.co",
+    "caretaker": "Lucía Gómez",
+    "caretakerPhone": "+57 300 555 0142",
+    "languages": ["es", "en"],
+    "showPoweredByHaven": true
+  }
+]

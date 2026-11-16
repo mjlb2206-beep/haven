@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "myStay": "My Stay",
+    "propertyGuide": "Property Guide",
+    "amenities": "Amenities",
+    "localGuide": "Local Guide",
+    "support": "Support",
+    "checkout": "Checkout"
+  },
+  "tabbar": {
+    "home": "Home",
+    "stay": "Stay",
+    "guide": "Guide",
+    "support": "Support"
+  },
+  "host": {
+    "hostedBy": "Your stay is hosted by",
+    "poweredBy": "Powered by Haven"
+  },
+  "welcome": {
+    "title": "Welcome, {firstName} 👋",
+    "nights": "{dates} · {n} nights",
+    "guests": "{n} guests",
+    "checkedIn": "Checked in"
+  },
+  "now": {
+    "wifi": {
+      "connected": "Connected"
+    },
+    "copy": "Copy",
+    "doorAccess": "Door access",
+    "tapToUnlock": "Tap to unlock",
+    "checkoutIn": "Checkout in",
+    "days": "days"
+  },
+  "reservation": {
+    "title": "Reservation summary",
+    "checkIn": "Check-in",
+    "checkout": "Checkout",
+    "guests": "Guests",
+    "unit": "Unit",
+    "parking": "Parking",
+    "bedrooms": "Bedrooms"
+  },
+  "status": {
+    "title": "Check-in status",
+    "completed": "Completed ✓",
+    "booked": "Booked",
+    "idVerified": "ID verified",
+    "codeSent": "Code sent"
+  },
+  "recs": {
+    "title": "Today’s recommendations",
+    "seeAll": "See local guide →"
+  },
+  "pass": {
+    "title": "Digital guest pass",
+    "addToWallet": "Add to Wallet"
+  },
+  "help": {
+    "title": "Need help?",
+    "reach": "Reach {business} directly — we usually reply within minutes.",
+    "phone": "Phone / WhatsApp",
+    "email": "Email",
+    "instagram": "Instagram",
+    "caretaker": "On-site caretaker",
+    "messageHost": "Message host",
+    "requestTowels": "Request towels"
+  },
+  "checkout": {
+    "title": "We’ll make the last morning easy.",
+    "luggage": "Luggage held until 4 PM",
+    "dishwasher": "Run the dishwasher",
+    "towels": "Gather used towels",
+    "keys": "Leave keys on the counter",
+    "lock": "Lock the door"
+  },
+  "again": {
+    "title": "Stay with us again",
+    "body": "Book direct for our best rate — returning guests get 10% off and early check-in when available.",
+    "cta": "Book your next stay"
+  }
+}
