@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__crosswalk__read",
+      "mcp__Canva__get-create-design-async-job",
+      "mcp__Canva__read-design",
+      "mcp__claude-code-remote__list_repos",
+      "mcp__Figma__get_figma_skill",
+      "mcp__Figma__get_screenshot"
+    ]
+  }
+}
