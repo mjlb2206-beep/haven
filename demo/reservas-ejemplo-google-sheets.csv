@@ -1,0 +1,30 @@
+Apartamento,Huésped,Teléfono,Canal,Código reserva,Entrada,Salida,Personas,Total (USD),Pagado (USD),Saldo (USD),Limpieza,Notas
+Brisas 102,Jonas Müller,+49 151 555 0177,Booking,BK4141,16/11/2026,19/11/2026,5,330,330,0,Rosa,Pidió cuna
+Sol 6,Paula Moreno,+34 622 555 090,Booking,BK4319,17/11/2026,19/11/2026,1,190,190,0,Marta,
+Marina 2A,Chloe Dubois,+33 6 55 55 02 11,Directo,D-4249,18/11/2026,23/11/2026,1,600,600,0,Rosa,
+Marina 3C,Olivia Taylor,+61 4 5555 0199,Airbnb,HM4269X,18/11/2026,21/11/2026,2,330,330,0,Luis,
+Brisas 102,Camila Torres,+57 315 555 0188,Booking,BK4146,20/11/2026,24/11/2026,3,480,480,0,Marta,Viene con mascota
+Brisas 203,Ethan Brown,+1 617 555 0123,Booking,BK4149,20/11/2026,23/11/2026,1,255,255,0,Marta,Late checkout 1pm
+Brisas 204,Valeria Díaz,+57 300 555 0199,Airbnb,HM4170X,20/11/2026,22/11/2026,2,240,240,0,Rosa,
+Marina 1B,Diego Herrera,+56 9 5555 0122,Airbnb,HM4225X,20/11/2026,22/11/2026,2,280,280,0,Rosa,Viene con mascota
+Palmera PH,Carlos Navarro,+52 33 5555 0199,Airbnb,HM4370X,20/11/2026,25/11/2026,4,600,600,0,Marta,Late checkout 1pm
+Marina 3C,Mateo Silva,+598 99 555 011,Airbnb,HM4286X,21/11/2026,23/11/2026,1,190,190,0,Rosa,
+Sol 5,Natalia Ruiz,+57 316 555 0123,Airbnb,HM4303X,21/11/2026,23/11/2026,5,220,220,0,Luis,Viene con mascota
+Sol 6,Felipe Castaño,+57 320 555 0111,Directo,D-4326,21/11/2026,23/11/2026,1,220,110,110,Luis,Cobrar saldo al llegar
+Brisas 204,Michael Lee,+1 415 555 0111,Airbnb,HM4188X,22/11/2026,24/11/2026,5,190,190,0,Rosa,Viene con mascota
+Marina 1A,Tom Wilson,+44 7700 900456,Airbnb,HM4207X,22/11/2026,24/11/2026,2,170,170,0,Marta,
+Sol 7,Santiago Vélez,+57 311 555 0166,Airbnb,HM4347X,22/11/2026,28/11/2026,3,1080,1080,0,Marta,
+Brisas 101,Laura Gómez,+57 310 555 0101,Booking,BK4109,23/11/2026,28/11/2026,4,475,475,0,Luis,Late checkout 1pm
+Brisas 203,Sofía Ramírez,+52 55 5555 0166,Airbnb,HM4152X,23/11/2026,27/11/2026,2,720,720,0,Rosa,
+Marina 1A,María Fernández,+57 312 555 0155,Directo,D-4216,24/11/2026,26/11/2026,1,240,120,120,Luis,Cobrar saldo al llegar
+Marina 1B,Emma Johansson,+46 70 555 0133,Booking,BK4232,24/11/2026,28/11/2026,5,560,560,0,Rosa,Pidió cuna
+Sol 5,James Walker,+1 312 555 0188,Airbnb,HM4306X,24/11/2026,30/11/2026,3,720,720,0,Rosa,Llega tarde (después de 10pm)
+Marina 2A,Juan López,+57 301 555 0177,Booking,BK4264,25/11/2026,28/11/2026,5,330,330,0,Marta,Pidió cuna
+Palmera PH,Zoe Martins,+351 912 555 033,Airbnb,HM4379X,25/11/2026,29/11/2026,3,560,560,0,Luis,
+Sol 6,Grace Kim,+1 206 555 0144,Directo,D-4342,26/11/2026,28/11/2026,5,170,85,85,Rosa,Cobrar saldo al llegar
+Brisas 203,Lucas Martin,+33 6 55 55 01 44,Airbnb,HM4167X,27/11/2026,02/12/2026,5,600,600,0,Luis,
+Brisas 204,Isabel Castro,+34 655 555 012,Airbnb,HM4195X,27/11/2026,03/12/2026,4,720,720,0,Rosa,Viene con mascota
+Brisas 101,Peter Smith,+1 212 555 0142,Airbnb,HM4116X,29/11/2026,01/12/2026,1,170,170,0,Luis,Late checkout 1pm
+Sol 7,Lena Schmidt,+49 160 555 0122,Directo,D-4364,30/11/2026,05/12/2026,5,600,300,300,Rosa,Cobrar saldo al llegar
+Marina 1B,Andrés Pérez,+57 318 555 0144,Booking,BK4244,01/12/2026,04/12/2026,2,285,285,0,Luis,Late checkout 1pm
+Brisas 101,Ana Rodrigues,+55 21 95555 0133,Booking,BK4124,04/12/2026,09/12/2026,5,700,700,0,Rosa,
