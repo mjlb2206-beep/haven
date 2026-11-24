@@ -1,0 +1,301 @@
+Apartamento,Huésped,Teléfono,Canal,Código reserva,Entrada,Salida,Personas,Total (USD),Pagado (USD),Saldo (USD),Limpieza,Notas
+Casa Brisas 101,Lucas Rossi,+1 (305) 555-0101,Booking,900000001,16/11/2026,18/11/2026,1,342.00,342.00,0.00,Lista,
+Casa Brisas 101,Sofía Smith,+1 (305) 555-0102,Airbnb,HMDEMO0002,30/11/2026,10/12/2026,1,1940,646,1294,Pendiente,Llegada tarde
+Casa Brisas 101,Daniel Pérez,+1 (305) 555-0103,WhatsApp,WA-0003,21/12/2026,26/12/2026,2,$965,$321,$644,Pendiente,Cuna solicitada
+Casa Brisas 101,Lucas Silva,+1 (305) 555-0104,Booking,900000004,07/01/2027,15/01/2027,1,"1,400.00",466.00,934.00,Pendiente,Entrada anticipada
+Casa Brisas 101,Nicolas Torres,+1 (305) 555-0105,Booking,900000005,22/01/2027,29/01/2027,1,1211,403,808,Pendiente,
+Villa Coral 102,Oliver López,+1 (305) 555-0106,WhatsApp,WA-0006,23/11/2026,29/11/2026,1,$1.386,$1.386,$0,Programada,Cuna solicitada
+Villa Coral 102,Isabella Martin,+1 (305) 555-0107,Airbnb,HMDEMO0007,12/12/2026,18/12/2026,4,"1,284.00",428.00,856.00,Pendiente,
+Villa Coral 102,Lucas Costa,+1 (305) 555-0108,Vrbo,VR-0008,31/12/2026,07/01/2027,3,1624,1082,542,Pendiente,
+Villa Coral 102,Nicolas López,+1 (305) 555-0109,WhatsApp,WA-0009,19/01/2027,22/01/2027,2,$618,$618,$0,Pendiente,
+Villa Coral 102,James García,+1 (305) 555-0110,WhatsApp,WA-0010,01/02/2027,07/02/2027,2,"1,278.00","1,278.00",0.00,Pendiente,Mascota pequeña
+Apto Marina 103,Lucas Costa,+1 (305) 555-0111,Vrbo,VR-0011,19/11/2026,22/11/2026,4,810,810,0,Lista,
+Apto Marina 103,Lucas Dubois,+1 (305) 555-0112,Vrbo,VR-0012,04/12/2026,13/12/2026,5,$2.367,$789,$1.578,Pendiente,
+Apto Marina 103,Lucas Rossi,+1 (305) 555-0113,WhatsApp,WA-0013,25/12/2026,02/01/2027,5,"2,248.00","1,498.00",750.00,Pendiente,
+Apto Marina 103,Valentina Costa,+1 (305) 555-0114,Airbnb,HMDEMO0014,09/01/2027,11/01/2027,4,498,498,0,Pendiente,
+Apto Marina 103,Emma Dubois,+1 (305) 555-0115,Directo,D-0015,18/01/2027,26/01/2027,1,$2.312,$2.312,$0,Pendiente,
+PH Palmera 104,Mateo Martin,+1 (305) 555-0116,Booking,900000016,16/11/2026,26/11/2026,7,"3,180.00","3,180.00",0.00,Programada,Entrada anticipada
+PH Palmera 104,Mateo Costa,+1 (305) 555-0117,WhatsApp,WA-0017,03/12/2026,09/12/2026,5,1782,1782,0,Pendiente,
+PH Palmera 104,Camila Dubois,+1 (305) 555-0118,Vrbo,VR-0018,20/12/2026,25/12/2026,1,$1.610,$536,$1.074,Pendiente,
+PH Palmera 104,Emma López,+1 (305) 555-0119,Airbnb,HMDEMO0019,03/01/2027,12/01/2027,1,"2,601.00","1,734.00",867.00,Pendiente,Llegada tarde
+PH Palmera 104,Valentina Costa,+1 (305) 555-0120,Airbnb,HMDEMO0020,19/01/2027,28/01/2027,8,3087,1029,2058,Pendiente,
+Casa Arena 105,Lucas Dubois,+1 (305) 555-0121,WhatsApp,WA-0021,19/11/2026,29/11/2026,1,$1.940,$1.940,$0,Programada,
+Casa Arena 105,Daniel Smith,+1 (305) 555-0122,Booking,900000022,08/12/2026,16/12/2026,1,"1,568.00","1,568.00",0.00,Pendiente,Llegada tarde
+Casa Arena 105,Lucas García,+1 (305) 555-0123,WhatsApp,WA-0023,25/12/2026,27/12/2026,1,338,338,0,Pendiente,
+Casa Arena 105,James Smith,+1 (305) 555-0124,Vrbo,VR-0024,08/01/2027,10/01/2027,1,$296,$98,$198,Pendiente,
+Casa Arena 105,Nicolas Pérez,+1 (305) 555-0125,Vrbo,VR-0025,22/01/2027,31/01/2027,2,"1,881.00",627.00,"1,254.00",Pendiente,Entrada anticipada
+Villa Sol 106,Lucía Brown,+1 (305) 555-0126,Airbnb,HMDEMO0026,21/11/2026,26/11/2026,3,985,985,0,Programada,
+Villa Sol 106,Isabella Silva,+1 (305) 555-0127,Airbnb,HMDEMO0027,06/12/2026,15/12/2026,1,$1.773,$591,$1.182,Pendiente,Cuna solicitada
+Villa Sol 106,Valentina Martin,+1 (305) 555-0128,Directo,D-0028,23/12/2026,02/01/2027,4,"2,020.00","1,346.00",674.00,Pendiente,Llegada tarde
+Villa Sol 106,Camila García,+1 (305) 555-0129,Airbnb,HMDEMO0029,12/01/2027,22/01/2027,1,1910,1910,0,Pendiente,Cuna solicitada
+Villa Sol 106,Sofía Rossi,+1 (305) 555-0130,Directo,D-0030,01/02/2027,10/02/2027,4,$1.908,$1.272,$636,Pendiente,Entrada anticipada
+Apto Bahía 107,Valentina López,+1 (305) 555-0131,Directo,D-0031,22/11/2026,28/11/2026,3,"1,752.00","1,752.00",0.00,Programada,Llegada tarde
+Apto Bahía 107,Sofía Pérez,+1 (305) 555-0132,Airbnb,HMDEMO0032,09/12/2026,19/12/2026,4,2700,900,1800,Pendiente,
+Apto Bahía 107,Mateo Rossi,+1 (305) 555-0133,Vrbo,VR-0033,01/01/2027,11/01/2027,1,$2.370,$2.370,$0,Pendiente,
+Apto Bahía 107,Lucas Pérez,+1 (305) 555-0134,Directo,D-0034,18/01/2027,23/01/2027,5,"1,225.00","1,225.00",0.00,Pendiente,Llegada tarde
+Apto Bahía 107,Lucía Silva,+1 (305) 555-0135,Booking,900000035,02/02/2027,12/02/2027,2,2630,876,1754,Pendiente,
+PH Olas 108,Mateo García,+1 (305) 555-0136,Directo,D-0036,17/11/2026,23/11/2026,8,$1.890,$1.890,$0,Lista,
+PH Olas 108,Camila Martin,+1 (305) 555-0137,Airbnb,HMDEMO0037,04/12/2026,07/12/2026,3,"1,029.00",343.00,686.00,Pendiente,
+PH Olas 108,Daniel Dubois,+1 (305) 555-0138,Booking,900000038,14/12/2026,19/12/2026,5,1555,518,1037,Pendiente,
+PH Olas 108,Mateo Rossi,+1 (305) 555-0139,Airbnb,HMDEMO0039,01/01/2027,11/01/2027,5,$3.130,$3.130,$0,Pendiente,Llegada tarde
+PH Olas 108,Oliver López,+1 (305) 555-0140,Vrbo,VR-0040,23/01/2027,02/02/2027,6,"3,090.00","2,060.00","1,030.00",Pendiente,Mascota pequeña
+Casa Duna 109,Lucía Brown,+1 (305) 555-0141,Airbnb,HMDEMO0041,22/11/2026,28/11/2026,2,906,906,0,Programada,Llegada tarde
+Casa Duna 109,Daniel Dubois,+1 (305) 555-0142,Booking,900000042,07/12/2026,11/12/2026,2,$640,$640,$0,Pendiente,
+Casa Duna 109,Sofía Silva,+1 (305) 555-0143,Airbnb,HMDEMO0043,18/12/2026,21/12/2026,1,477.00,477.00,0.00,Pendiente,
+Casa Duna 109,James López,+1 (305) 555-0144,Booking,900000044,29/12/2026,31/12/2026,1,372,124,248,Pendiente,
+Casa Duna 109,Nicolas Rossi,+1 (305) 555-0145,WhatsApp,WA-0045,07/01/2027,14/01/2027,1,$1.344,$1.344,$0,Pendiente,Cuna solicitada
+Villa Cielo 110,Lucía López,+1 (305) 555-0146,Booking,900000046,15/11/2026,19/11/2026,3,948.00,948.00,0.00,Lista,Llegada tarde
+Villa Cielo 110,Daniel Silva,+1 (305) 555-0147,Directo,D-0047,29/11/2026,01/12/2026,3,426,142,284,Pendiente,Cuna solicitada
+Villa Cielo 110,Mateo Martin,+1 (305) 555-0148,Directo,D-0048,08/12/2026,13/12/2026,3,$1.135,$756,$379,Pendiente,
+Villa Cielo 110,Mateo Martin,+1 (305) 555-0149,WhatsApp,WA-0049,24/12/2026,01/01/2027,2,"1,816.00",605.00,"1,211.00",Pendiente,
+Villa Cielo 110,Nicolas Silva,+1 (305) 555-0150,Airbnb,HMDEMO0050,10/01/2027,12/01/2027,4,480,320,160,Pendiente,
+Apto Costa 111,Emma García,+1 (305) 555-0151,WhatsApp,WA-0051,16/11/2026,24/11/2026,6,$2.032,$2.032,$0,Programada,
+Apto Costa 111,Isabella Smith,+1 (305) 555-0152,WhatsApp,WA-0052,01/12/2026,11/12/2026,6,"2,550.00","1,700.00",850.00,Pendiente,
+Apto Costa 111,Emma Costa,+1 (305) 555-0153,Airbnb,HMDEMO0053,22/12/2026,29/12/2026,4,1876,1876,0,Pendiente,
+Apto Costa 111,Isabella Costa,+1 (305) 555-0154,WhatsApp,WA-0054,08/01/2027,14/01/2027,4,$1.476,$492,$984,Pendiente,
+Apto Costa 111,Camila García,+1 (305) 555-0155,WhatsApp,WA-0055,26/01/2027,30/01/2027,3,"1,072.00",714.00,358.00,Pendiente,
+PH Perla 112,Daniel Costa,+1 (305) 555-0156,Directo,D-0056,21/11/2026,28/11/2026,4,2317,2317,0,Programada,
+PH Perla 112,Lucía Costa,+1 (305) 555-0157,Airbnb,HMDEMO0057,08/12/2026,12/12/2026,6,$1.244,$1.244,$0,Pendiente,Cuna solicitada
+PH Perla 112,Sofía García,+1 (305) 555-0158,Vrbo,VR-0058,24/12/2026,30/12/2026,4,"1,800.00",600.00,"1,200.00",Pendiente,
+PH Perla 112,Oliver López,+1 (305) 555-0159,Directo,D-0059,10/01/2027,13/01/2027,7,984,984,0,Pendiente,
+PH Perla 112,Isabella López,+1 (305) 555-0160,Vrbo,VR-0060,23/01/2027,28/01/2027,3,$1.375,$458,$917,Pendiente,
+Casa Brisas 113,Mateo Torres,+1 (305) 555-0161,WhatsApp,WA-0061,22/11/2026,24/11/2026,1,342.00,342.00,0.00,Programada,
+Casa Brisas 113,Oliver Dubois,+1 (305) 555-0162,WhatsApp,WA-0062,06/12/2026,16/12/2026,2,1800,1200,600,Pendiente,
+Casa Brisas 113,Lucas Costa,+1 (305) 555-0163,Directo,D-0063,26/12/2026,30/12/2026,2,$788,$525,$263,Pendiente,
+Casa Brisas 113,Nicolas Martin,+1 (305) 555-0164,Booking,900000064,09/01/2027,14/01/2027,1,980.00,326.00,654.00,Pendiente,
+Casa Brisas 113,Valentina López,+1 (305) 555-0165,WhatsApp,WA-0065,23/01/2027,30/01/2027,2,1050,350,700,Pendiente,
+Villa Coral 114,James Dubois,+1 (305) 555-0166,Directo,D-0066,18/11/2026,21/11/2026,4,$711,$711,$0,Lista,
+Villa Coral 114,Nicolas García,+1 (305) 555-0167,Directo,D-0067,28/11/2026,03/12/2026,4,"1,170.00","1,170.00",0.00,Pendiente,
+Villa Coral 114,Camila Dubois,+1 (305) 555-0168,Booking,900000068,10/12/2026,17/12/2026,2,1638,1092,546,Pendiente,
+Villa Coral 114,Isabella Silva,+1 (305) 555-0169,Directo,D-0069,25/12/2026,31/12/2026,4,$1.482,$494,$988,Pendiente,
+Villa Coral 114,Isabella Pérez,+1 (305) 555-0170,Vrbo,VR-0070,08/01/2027,17/01/2027,1,"2,277.00",759.00,"1,518.00",Pendiente,Entrada anticipada
+Apto Marina 115,Isabella Silva,+1 (305) 555-0171,Airbnb,HMDEMO0071,22/11/2026,26/11/2026,2,1052,1052,0,Programada,
+Apto Marina 115,Emma Smith,+1 (305) 555-0172,Directo,D-0072,05/12/2026,12/12/2026,4,$1.855,$1.236,$619,Pendiente,Llegada tarde
+Apto Marina 115,Lucas López,+1 (305) 555-0173,Airbnb,HMDEMO0073,21/12/2026,26/12/2026,1,"1,175.00",391.00,784.00,Pendiente,
+Apto Marina 115,Mateo Pérez,+1 (305) 555-0174,Vrbo,VR-0074,03/01/2027,08/01/2027,2,1450,1450,0,Pendiente,
+Apto Marina 115,Oliver Smith,+1 (305) 555-0175,Booking,900000075,20/01/2027,26/01/2027,2,$1.506,$1.506,$0,Pendiente,
+PH Palmera 116,Isabella López,+1 (305) 555-0176,Booking,900000076,24/11/2026,26/11/2026,2,646.00,646.00,0.00,Pendiente,
+PH Palmera 116,Oliver Smith,+1 (305) 555-0177,Airbnb,HMDEMO0077,08/12/2026,13/12/2026,1,1565,1565,0,Pendiente,
+PH Palmera 116,Lucía Silva,+1 (305) 555-0178,Booking,900000078,24/12/2026,01/01/2027,1,$2.264,$2.264,$0,Pendiente,
+PH Palmera 116,Lucía Torres,+1 (305) 555-0179,Airbnb,HMDEMO0079,14/01/2027,23/01/2027,3,"2,970.00","1,980.00",990.00,Pendiente,
+PH Palmera 116,Daniel Brown,+1 (305) 555-0180,Booking,900000080,31/01/2027,10/02/2027,5,3430,2286,1144,Pendiente,
+Casa Arena 117,Lucas Torres,+1 (305) 555-0181,Booking,900000081,18/11/2026,21/11/2026,2,$591,$591,$0,Lista,
+Casa Arena 117,Lucas Silva,+1 (305) 555-0182,Booking,900000082,28/11/2026,07/12/2026,2,"1,467.00",978.00,489.00,Pendiente,
+Casa Arena 117,Lucas Smith,+1 (305) 555-0183,WhatsApp,WA-0083,16/12/2026,22/12/2026,1,846,846,0,Pendiente,
+Casa Arena 117,Daniel Costa,+1 (305) 555-0184,WhatsApp,WA-0084,01/01/2027,10/01/2027,2,$1.530,$1.530,$0,Pendiente,
+Casa Arena 117,Isabella López,+1 (305) 555-0185,Airbnb,HMDEMO0085,23/01/2027,25/01/2027,2,354.00,118.00,236.00,Pendiente,
+Villa Sol 118,James Brown,+1 (305) 555-0186,WhatsApp,WA-0086,20/11/2026,29/11/2026,3,2268,2268,0,Programada,
+Villa Sol 118,Lucas Smith,+1 (305) 555-0187,Booking,900000087,11/12/2026,20/12/2026,2,$2.016,$1.344,$672,Pendiente,
+Villa Sol 118,Nicolas Torres,+1 (305) 555-0188,Vrbo,VR-0088,27/12/2026,06/01/2027,3,"2,090.00",696.00,"1,394.00",Pendiente,
+Villa Sol 118,Lucas Martin,+1 (305) 555-0189,WhatsApp,WA-0089,17/01/2027,27/01/2027,2,2210,736,1474,Pendiente,
+Villa Sol 118,Emma García,+1 (305) 555-0190,Airbnb,HMDEMO0090,04/02/2027,10/02/2027,1,$1.518,$506,$1.012,Pendiente,
+Apto Bahía 119,Oliver Martin,+1 (305) 555-0191,Airbnb,HMDEMO0091,17/11/2026,26/11/2026,4,"2,079.00","2,079.00",0.00,Programada,
+Apto Bahía 119,Daniel Smith,+1 (305) 555-0192,Vrbo,VR-0092,06/12/2026,13/12/2026,1,1652,1101,551,Pendiente,
+Apto Bahía 119,Valentina Pérez,+1 (305) 555-0193,WhatsApp,WA-0093,23/12/2026,26/12/2026,3,$708,$236,$472,Pendiente,Cuna solicitada
+Apto Bahía 119,Isabella Torres,+1 (305) 555-0194,Directo,D-0094,02/01/2027,12/01/2027,4,"2,580.00","2,580.00",0.00,Pendiente,
+Apto Bahía 119,Nicolas Smith,+1 (305) 555-0195,Booking,900000095,25/01/2027,02/02/2027,2,1896,1896,0,Pendiente,
+PH Olas 120,Valentina Dubois,+1 (305) 555-0196,Vrbo,VR-0096,19/11/2026,22/11/2026,2,$915,$915,$0,Lista,Llegada tarde
+PH Olas 120,Sofía López,+1 (305) 555-0197,WhatsApp,WA-0097,02/12/2026,11/12/2026,5,"3,015.00","2,010.00","1,005.00",Pendiente,
+PH Olas 120,Lucía Pérez,+1 (305) 555-0198,Airbnb,HMDEMO0098,20/12/2026,29/12/2026,4,2736,1824,912,Pendiente,
+PH Olas 120,Valentina Smith,+1 (305) 555-0199,Vrbo,VR-0099,05/01/2027,15/01/2027,1,$2.940,$1.960,$980,Pendiente,Mascota pequeña
+PH Olas 120,Nicolas Martin,+1 (305) 555-0100,Directo,D-0100,26/01/2027,01/02/2027,7,"1,740.00","1,160.00",580.00,Pendiente,
+Casa Duna 121,Oliver García,+1 (305) 555-0101,Directo,D-0101,23/11/2026,02/12/2026,2,1350,1350,0,Programada,
+Casa Duna 121,Lucía Pérez,+1 (305) 555-0102,Airbnb,HMDEMO0102,11/12/2026,17/12/2026,1,$906,$302,$604,Pendiente,
+Casa Duna 121,Daniel Dubois,+1 (305) 555-0103,WhatsApp,WA-0103,30/12/2026,05/01/2027,2,870.00,290.00,580.00,Pendiente,
+Casa Duna 121,James Brown,+1 (305) 555-0104,Directo,D-0104,13/01/2027,21/01/2027,2,1208,805,403,Pendiente,
+Casa Duna 121,Nicolas Torres,+1 (305) 555-0105,Vrbo,VR-0105,02/02/2027,05/02/2027,2,$546,$364,$182,Pendiente,
+Villa Cielo 122,James Martin,+1 (305) 555-0106,Directo,D-0106,23/11/2026,25/11/2026,3,392.00,392.00,0.00,Programada,Entrada anticipada
+Villa Cielo 122,Isabella García,+1 (305) 555-0107,Airbnb,HMDEMO0107,08/12/2026,18/12/2026,2,2540,1693,847,Pendiente,
+Villa Cielo 122,Emma Dubois,+1 (305) 555-0108,Directo,D-0108,27/12/2026,05/01/2027,2,$1.719,$573,$1.146,Pendiente,
+Villa Cielo 122,Oliver López,+1 (305) 555-0109,Airbnb,HMDEMO0109,15/01/2027,24/01/2027,2,"1,692.00","1,692.00",0.00,Pendiente,
+Villa Cielo 122,Lucas Smith,+1 (305) 555-0110,WhatsApp,WA-0110,04/02/2027,06/02/2027,4,474,158,316,Pendiente,Cuna solicitada
+Apto Costa 123,Daniel Torres,+1 (305) 555-0111,Booking,900000111,19/11/2026,29/11/2026,2,$2.830,$2.830,$0,Programada,
+Apto Costa 123,Camila Rossi,+1 (305) 555-0112,Directo,D-0112,10/12/2026,14/12/2026,1,"1,016.00","1,016.00",0.00,Pendiente,
+Apto Costa 123,Sofía Martin,+1 (305) 555-0113,Booking,900000113,27/12/2026,04/01/2027,6,2352,1568,784,Pendiente,
+Apto Costa 123,Daniel Silva,+1 (305) 555-0114,Vrbo,VR-0114,17/01/2027,26/01/2027,3,$2.583,$2.583,$0,Pendiente,
+Apto Costa 123,Lucas López,+1 (305) 555-0115,Directo,D-0115,08/02/2027,18/02/2027,5,"2,880.00","1,920.00",960.00,Pendiente,
+PH Perla 124,Nicolas Brown,+1 (305) 555-0116,Booking,900000116,21/11/2026,23/11/2026,7,670,670,0,Lista,
+PH Perla 124,Camila Pérez,+1 (305) 555-0117,Directo,D-0117,06/12/2026,10/12/2026,6,$1.116,$372,$744,Pendiente,Entrada anticipada
+PH Perla 124,Valentina Brown,+1 (305) 555-0118,Directo,D-0118,17/12/2026,27/12/2026,3,"2,760.00","2,760.00",0.00,Pendiente,Entrada anticipada
+PH Perla 124,Mateo Silva,+1 (305) 555-0119,Booking,900000119,09/01/2027,15/01/2027,7,1950,1950,0,Pendiente,
+PH Perla 124,Mateo López,+1 (305) 555-0120,WhatsApp,WA-0120,27/01/2027,05/02/2027,5,$2.511,$2.511,$0,Pendiente,Llegada tarde
+Casa Brisas 125,Nicolas Martin,+1 (305) 555-0121,Directo,D-0121,16/11/2026,19/11/2026,1,483.00,483.00,0.00,Lista,Mascota pequeña
+Casa Brisas 125,Isabella Rossi,+1 (305) 555-0122,Booking,900000122,02/12/2026,04/12/2026,1,370,246,124,Pendiente,
+Casa Brisas 125,Oliver Brown,+1 (305) 555-0123,Vrbo,VR-0123,14/12/2026,18/12/2026,1,$648,$216,$432,Pendiente,
+Casa Brisas 125,Emma Torres,+1 (305) 555-0124,Vrbo,VR-0124,29/12/2026,02/01/2027,2,796.00,796.00,0.00,Pendiente,
+Casa Brisas 125,Mateo Torres,+1 (305) 555-0125,Booking,900000125,09/01/2027,18/01/2027,2,1881,627,1254,Pendiente,
+Villa Coral 126,Lucas Brown,+1 (305) 555-0126,Directo,D-0126,21/11/2026,27/11/2026,4,$1.338,$1.338,$0,Programada,Cuna solicitada
+Villa Coral 126,Emma García,+1 (305) 555-0127,WhatsApp,WA-0127,07/12/2026,14/12/2026,4,"1,554.00","1,554.00",0.00,Pendiente,
+Villa Coral 126,Lucas Pérez,+1 (305) 555-0128,WhatsApp,WA-0128,21/12/2026,23/12/2026,3,496,330,166,Pendiente,Cuna solicitada
+Villa Coral 126,Lucía García,+1 (305) 555-0129,Vrbo,VR-0129,03/01/2027,09/01/2027,3,$1.182,$1.182,$0,Pendiente,
+Villa Coral 126,James Brown,+1 (305) 555-0130,Vrbo,VR-0130,16/01/2027,23/01/2027,2,"1,372.00",914.00,458.00,Pendiente,Cuna solicitada
+Apto Marina 127,Emma Rossi,+1 (305) 555-0131,WhatsApp,WA-0131,23/11/2026,30/11/2026,3,2058,2058,0,Programada,
+Apto Marina 127,Mateo Rossi,+1 (305) 555-0132,Booking,900000132,13/12/2026,19/12/2026,2,$1.464,$976,$488,Pendiente,
+Apto Marina 127,Isabella García,+1 (305) 555-0133,WhatsApp,WA-0133,31/12/2026,08/01/2027,3,"2,208.00",736.00,"1,472.00",Pendiente,
+Apto Marina 127,Isabella Costa,+1 (305) 555-0134,Booking,900000134,15/01/2027,24/01/2027,3,2367,2367,0,Pendiente,Cuna solicitada
+Apto Marina 127,Lucas Costa,+1 (305) 555-0135,WhatsApp,WA-0135,03/02/2027,05/02/2027,1,$542,$542,$0,Pendiente,
+PH Palmera 128,Valentina García,+1 (305) 555-0136,Directo,D-0136,22/11/2026,28/11/2026,1,"1,734.00","1,734.00",0.00,Programada,
+PH Palmera 128,Valentina Brown,+1 (305) 555-0137,Airbnb,HMDEMO0137,08/12/2026,11/12/2026,8,915,915,0,Pendiente,
+PH Palmera 128,Lucía Smith,+1 (305) 555-0138,Directo,D-0138,23/12/2026,02/01/2027,8,$2.940,$1.960,$980,Pendiente,
+PH Palmera 128,Daniel Torres,+1 (305) 555-0139,Airbnb,HMDEMO0139,12/01/2027,18/01/2027,4,"1,932.00",644.00,"1,288.00",Pendiente,
+PH Palmera 128,Isabella Martin,+1 (305) 555-0140,WhatsApp,WA-0140,25/01/2027,01/02/2027,4,2240,746,1494,Pendiente,Entrada anticipada
+Casa Arena 129,Lucas Rossi,+1 (305) 555-0141,Airbnb,HMDEMO0141,18/11/2026,20/11/2026,1,$364,$364,$0,Lista,Cuna solicitada
+Casa Arena 129,Oliver García,+1 (305) 555-0142,Vrbo,VR-0142,01/12/2026,06/12/2026,2,910.00,303.00,607.00,Pendiente,Cuna solicitada
+Casa Arena 129,Sofía Rossi,+1 (305) 555-0143,Vrbo,VR-0143,17/12/2026,23/12/2026,1,924,924,0,Pendiente,
+Casa Arena 129,Valentina Martin,+1 (305) 555-0144,WhatsApp,WA-0144,05/01/2027,10/01/2027,1,$905,$301,$604,Pendiente,Entrada anticipada
+Casa Arena 129,James Dubois,+1 (305) 555-0145,Airbnb,HMDEMO0145,21/01/2027,24/01/2027,1,600.00,400.00,200.00,Pendiente,
+Villa Sol 130,Daniel Costa,+1 (305) 555-0146,WhatsApp,WA-0146,18/11/2026,20/11/2026,1,446,446,0,Lista,Entrada anticipada
+Villa Sol 130,Nicolas Torres,+1 (305) 555-0147,Directo,D-0147,03/12/2026,11/12/2026,1,$1.584,$1.056,$528,Pendiente,Mascota pequeña
+Villa Sol 130,Oliver Costa,+1 (305) 555-0148,Airbnb,HMDEMO0148,22/12/2026,26/12/2026,3,804.00,536.00,268.00,Pendiente,
+Villa Sol 130,Oliver Brown,+1 (305) 555-0149,Booking,900000149,06/01/2027,16/01/2027,1,2430,2430,0,Pendiente,
+Villa Sol 130,Lucas Brown,+1 (305) 555-0150,Vrbo,VR-0150,23/01/2027,02/02/2027,3,$2.400,$1.600,$800,Pendiente,
+Apto Bahía 131,James Costa,+1 (305) 555-0151,Booking,900000151,21/11/2026,24/11/2026,3,852.00,852.00,0.00,Programada,
+Apto Bahía 131,Mateo Brown,+1 (305) 555-0152,Airbnb,HMDEMO0152,02/12/2026,11/12/2026,1,2169,723,1446,Pendiente,
+Apto Bahía 131,Camila Dubois,+1 (305) 555-0153,Vrbo,VR-0153,23/12/2026,30/12/2026,3,$1.659,$1.659,$0,Pendiente,
+Apto Bahía 131,Sofía Martin,+1 (305) 555-0154,Booking,900000154,06/01/2027,14/01/2027,5,"2,272.00","2,272.00",0.00,Pendiente,
+Apto Bahía 131,Valentina Costa,+1 (305) 555-0155,WhatsApp,WA-0155,23/01/2027,26/01/2027,4,882,294,588,Pendiente,Llegada tarde
+PH Olas 132,Oliver López,+1 (305) 555-0156,Airbnb,HMDEMO0156,23/11/2026,30/11/2026,7,$2.170,$2.170,$0,Programada,
+PH Olas 132,Valentina Martin,+1 (305) 555-0157,Airbnb,HMDEMO0157,13/12/2026,23/12/2026,5,"3,090.00","1,030.00","2,060.00",Pendiente,
+PH Olas 132,Lucía Brown,+1 (305) 555-0158,Vrbo,VR-0158,01/01/2027,03/01/2027,2,586,586,0,Pendiente,Llegada tarde
+PH Olas 132,Daniel Silva,+1 (305) 555-0159,Vrbo,VR-0159,10/01/2027,20/01/2027,3,$3.230,$2.153,$1.077,Pendiente,
+PH Olas 132,Valentina Rossi,+1 (305) 555-0160,WhatsApp,WA-0160,29/01/2027,05/02/2027,1,"1,995.00",665.00,"1,330.00",Pendiente,
+Casa Duna 133,Oliver Torres,+1 (305) 555-0161,Directo,D-0161,19/11/2026,28/11/2026,2,1818,1818,0,Programada,
+Casa Duna 133,Mateo Martin,+1 (305) 555-0162,Airbnb,HMDEMO0162,06/12/2026,16/12/2026,2,$1.840,$1.226,$614,Pendiente,
+Casa Duna 133,Oliver García,+1 (305) 555-0163,Airbnb,HMDEMO0163,28/12/2026,03/01/2027,1,"1,008.00",672.00,336.00,Pendiente,Mascota pequeña
+Casa Duna 133,Mateo García,+1 (305) 555-0164,Booking,900000164,11/01/2027,15/01/2027,2,708,472,236,Pendiente,
+Casa Duna 133,Nicolas López,+1 (305) 555-0165,Vrbo,VR-0165,25/01/2027,29/01/2027,2,$752,$752,$0,Pendiente,Entrada anticipada
+Villa Cielo 134,Mateo Silva,+1 (305) 555-0166,Airbnb,HMDEMO0166,15/11/2026,23/11/2026,4,"1,944.00","1,944.00",0.00,Lista,
+Villa Cielo 134,Sofía Silva,+1 (305) 555-0167,Booking,900000167,03/12/2026,11/12/2026,2,1592,1061,531,Pendiente,
+Villa Cielo 134,Lucas Brown,+1 (305) 555-0168,Airbnb,HMDEMO0168,21/12/2026,28/12/2026,4,$1.680,$560,$1.120,Pendiente,
+Villa Cielo 134,James Rossi,+1 (305) 555-0169,Booking,900000169,04/01/2027,12/01/2027,1,"1,824.00",608.00,"1,216.00",Pendiente,
+Villa Cielo 134,James Silva,+1 (305) 555-0170,WhatsApp,WA-0170,24/01/2027,27/01/2027,2,750,250,500,Pendiente,Llegada tarde
+Apto Costa 135,Lucía Smith,+1 (305) 555-0171,Vrbo,VR-0171,19/11/2026,24/11/2026,2,$1.245,$1.245,$0,Programada,
+Apto Costa 135,Oliver Costa,+1 (305) 555-0172,WhatsApp,WA-0172,04/12/2026,13/12/2026,6,"2,583.00","2,583.00",0.00,Pendiente,
+Apto Costa 135,Daniel Torres,+1 (305) 555-0173,Vrbo,VR-0173,22/12/2026,29/12/2026,6,2002,667,1335,Pendiente,
+Apto Costa 135,Camila Smith,+1 (305) 555-0174,WhatsApp,WA-0174,11/01/2027,17/01/2027,3,$1.422,$948,$474,Pendiente,
+Apto Costa 135,Mateo Costa,+1 (305) 555-0175,Airbnb,HMDEMO0175,27/01/2027,29/01/2027,1,554.00,369.00,185.00,Pendiente,
+PH Perla 136,Daniel Pérez,+1 (305) 555-0176,Directo,D-0176,23/11/2026,01/12/2026,4,2240,2240,0,Programada,
+PH Perla 136,Daniel Smith,+1 (305) 555-0177,WhatsApp,WA-0177,12/12/2026,21/12/2026,6,$2.646,$882,$1.764,Pendiente,
+PH Perla 136,Nicolas Torres,+1 (305) 555-0178,Vrbo,VR-0178,28/12/2026,07/01/2027,8,"2,800.00",933.00,"1,867.00",Pendiente,
+PH Perla 136,Isabella Brown,+1 (305) 555-0179,Booking,900000179,18/01/2027,22/01/2027,6,1288,858,430,Pendiente,
+PH Perla 136,Mateo Dubois,+1 (305) 555-0180,Booking,900000180,02/02/2027,04/02/2027,7,$566,$377,$189,Pendiente,
+Casa Brisas 137,Oliver Costa,+1 (305) 555-0181,Booking,900000181,24/11/2026,28/11/2026,1,600.00,600.00,0.00,Pendiente,
+Casa Brisas 137,Camila Brown,+1 (305) 555-0182,Vrbo,VR-0182,07/12/2026,15/12/2026,2,1200,800,400,Pendiente,Llegada tarde
+Casa Brisas 137,James Martin,+1 (305) 555-0183,WhatsApp,WA-0183,27/12/2026,04/01/2027,1,$1.488,$496,$992,Pendiente,Mascota pequeña
+Casa Brisas 137,Valentina Smith,+1 (305) 555-0184,Vrbo,VR-0184,17/01/2027,26/01/2027,2,"1,512.00",504.00,"1,008.00",Pendiente,Llegada tarde
+Casa Brisas 137,Isabella Rossi,+1 (305) 555-0185,WhatsApp,WA-0185,07/02/2027,14/02/2027,1,1092,1092,0,Pendiente,Cuna solicitada
+Villa Coral 138,Lucía López,+1 (305) 555-0186,Directo,D-0186,22/11/2026,24/11/2026,4,$462,$462,$0,Programada,
+Villa Coral 138,Emma Torres,+1 (305) 555-0187,Vrbo,VR-0187,03/12/2026,12/12/2026,2,"2,277.00",759.00,"1,518.00",Pendiente,
+Villa Coral 138,Camila Dubois,+1 (305) 555-0188,Directo,D-0188,24/12/2026,02/01/2027,4,1989,1326,663,Pendiente,Cuna solicitada
+Villa Coral 138,Daniel Silva,+1 (305) 555-0189,Booking,900000189,15/01/2027,19/01/2027,1,$764,$764,$0,Pendiente,
+Villa Coral 138,Valentina Martin,+1 (305) 555-0190,Airbnb,HMDEMO0190,01/02/2027,11/02/2027,4,"2,210.00",736.00,"1,474.00",Pendiente,
+Apto Marina 139,James García,+1 (305) 555-0191,Vrbo,VR-0191,21/11/2026,24/11/2026,4,861,861,0,Programada,Entrada anticipada
+Apto Marina 139,James López,+1 (305) 555-0192,Vrbo,VR-0192,05/12/2026,12/12/2026,1,$1.953,$651,$1.302,Pendiente,
+Apto Marina 139,Emma Torres,+1 (305) 555-0193,Vrbo,VR-0193,19/12/2026,26/12/2026,6,"1,729.00",576.00,"1,153.00",Pendiente,Entrada anticipada
+Apto Marina 139,Lucas Rossi,+1 (305) 555-0194,Airbnb,HMDEMO0194,05/01/2027,07/01/2027,5,464,309,155,Pendiente,
+Apto Marina 139,Lucas Martin,+1 (305) 555-0195,Directo,D-0195,18/01/2027,28/01/2027,1,$2.440,$1.626,$814,Pendiente,Cuna solicitada
+PH Palmera 140,Daniel Pérez,+1 (305) 555-0196,Airbnb,HMDEMO0196,24/11/2026,03/12/2026,1,"2,601.00","2,601.00",0.00,Pendiente,
+PH Palmera 140,Sofía Pérez,+1 (305) 555-0197,Vrbo,VR-0197,14/12/2026,19/12/2026,6,1560,1040,520,Pendiente,Entrada anticipada
+PH Palmera 140,Camila Dubois,+1 (305) 555-0198,WhatsApp,WA-0198,27/12/2026,30/12/2026,1,$963,$321,$642,Pendiente,
+PH Palmera 140,Emma García,+1 (305) 555-0199,Airbnb,HMDEMO0199,12/01/2027,21/01/2027,6,"2,916.00","1,944.00",972.00,Pendiente,Mascota pequeña
+PH Palmera 140,Sofía Silva,+1 (305) 555-0100,WhatsApp,WA-0200,29/01/2027,01/02/2027,6,951,317,634,Pendiente,
+Casa Arena 141,Mateo Torres,+1 (305) 555-0101,Vrbo,VR-0201,22/11/2026,01/12/2026,1,$1.413,$1.413,$0,Programada,
+Casa Arena 141,Emma Dubois,+1 (305) 555-0102,Vrbo,VR-0202,09/12/2026,11/12/2026,2,290.00,193.00,97.00,Pendiente,
+Casa Arena 141,James García,+1 (305) 555-0103,Airbnb,HMDEMO0203,21/12/2026,27/12/2026,2,984,656,328,Pendiente,
+Casa Arena 141,Daniel Brown,+1 (305) 555-0104,Directo,D-0204,03/01/2027,10/01/2027,2,$1.337,$1.337,$0,Pendiente,Entrada anticipada
+Casa Arena 141,Mateo Brown,+1 (305) 555-0105,Booking,900000205,22/01/2027,31/01/2027,1,"1,854.00","1,236.00",618.00,Pendiente,
+Villa Sol 142,Mateo Smith,+1 (305) 555-0106,Booking,900000206,17/11/2026,27/11/2026,3,2260,2260,0,Programada,
+Villa Sol 142,Nicolas Torres,+1 (305) 555-0107,Directo,D-0207,06/12/2026,12/12/2026,3,$1.434,$478,$956,Pendiente,
+Villa Sol 142,Lucía García,+1 (305) 555-0108,WhatsApp,WA-0208,19/12/2026,26/12/2026,1,"1,680.00","1,120.00",560.00,Pendiente,
+Villa Sol 142,Lucía Rossi,+1 (305) 555-0109,Booking,900000209,07/01/2027,15/01/2027,1,2000,2000,0,Pendiente,Entrada anticipada
+Villa Sol 142,James Silva,+1 (305) 555-0110,Airbnb,HMDEMO0210,22/01/2027,26/01/2027,4,$860,$860,$0,Pendiente,
+Apto Bahía 143,James Torres,+1 (305) 555-0111,Directo,D-0211,24/11/2026,28/11/2026,1,"1,108.00","1,108.00",0.00,Pendiente,
+Apto Bahía 143,Lucía Martin,+1 (305) 555-0112,Booking,900000212,06/12/2026,16/12/2026,2,2800,1866,934,Pendiente,Llegada tarde
+Apto Bahía 143,Camila Smith,+1 (305) 555-0113,Directo,D-0213,28/12/2026,01/01/2027,3,$1.184,$789,$395,Pendiente,
+Apto Bahía 143,Daniel López,+1 (305) 555-0114,Vrbo,VR-0214,13/01/2027,22/01/2027,1,"2,394.00","2,394.00",0.00,Pendiente,Llegada tarde
+Apto Bahía 143,James Costa,+1 (305) 555-0115,Directo,D-0215,01/02/2027,05/02/2027,3,964,964,0,Pendiente,
+PH Olas 144,Valentina Costa,+1 (305) 555-0116,Booking,900000216,23/11/2026,03/12/2026,3,$3.130,$3.130,$0,Programada,
+PH Olas 144,Lucas Torres,+1 (305) 555-0117,Airbnb,HMDEMO0217,14/12/2026,19/12/2026,1,"1,500.00",500.00,"1,000.00",Pendiente,
+PH Olas 144,Mateo Smith,+1 (305) 555-0118,Directo,D-0218,30/12/2026,06/01/2027,5,2037,2037,0,Pendiente,
+PH Olas 144,Oliver Smith,+1 (305) 555-0119,WhatsApp,WA-0219,18/01/2027,27/01/2027,3,$2.943,$1.962,$981,Pendiente,
+PH Olas 144,Camila Silva,+1 (305) 555-0120,Directo,D-0220,08/02/2027,11/02/2027,3,"1,002.00","1,002.00",0.00,Pendiente,
+Casa Duna 145,Camila García,+1 (305) 555-0121,Vrbo,VR-0221,24/11/2026,28/11/2026,1,780,780,0,Pendiente,
+Casa Duna 145,Nicolas López,+1 (305) 555-0122,Vrbo,VR-0222,06/12/2026,12/12/2026,2,$960,$640,$320,Pendiente,
+Casa Duna 145,Camila Martin,+1 (305) 555-0123,Booking,900000223,21/12/2026,24/12/2026,1,495.00,495.00,0.00,Pendiente,
+Casa Duna 145,Valentina Pérez,+1 (305) 555-0124,Airbnb,HMDEMO0224,02/01/2027,12/01/2027,1,2040,2040,0,Pendiente,Mascota pequeña
+Casa Duna 145,Lucía Pérez,+1 (305) 555-0125,Airbnb,HMDEMO0225,25/01/2027,27/01/2027,2,$300,$100,$200,Pendiente,
+Villa Cielo 146,Daniel Costa,+1 (305) 555-0126,WhatsApp,WA-0226,24/11/2026,02/12/2026,3,"1,504.00","1,504.00",0.00,Pendiente,
+Villa Cielo 146,Daniel Smith,+1 (305) 555-0127,Vrbo,VR-0227,11/12/2026,20/12/2026,1,2124,1416,708,Pendiente,Entrada anticipada
+Villa Cielo 146,Oliver Rossi,+1 (305) 555-0128,Directo,D-0228,30/12/2026,08/01/2027,3,$1.899,$1.266,$633,Pendiente,
+Villa Cielo 146,Camila Dubois,+1 (305) 555-0129,Directo,D-0229,17/01/2027,24/01/2027,1,"1,407.00",938.00,469.00,Pendiente,
+Villa Cielo 146,Lucas Rossi,+1 (305) 555-0130,Airbnb,HMDEMO0230,01/02/2027,10/02/2027,1,1971,1314,657,Pendiente,Mascota pequeña
+Apto Costa 147,James Pérez,+1 (305) 555-0131,Vrbo,VR-0231,24/11/2026,02/12/2026,6,$2.000,$2.000,$0,Pendiente,
+Apto Costa 147,Daniel Martin,+1 (305) 555-0132,Directo,D-0232,10/12/2026,14/12/2026,4,"1,180.00",786.00,394.00,Pendiente,Llegada tarde
+Apto Costa 147,Oliver Silva,+1 (305) 555-0133,Directo,D-0233,24/12/2026,03/01/2027,1,2600,866,1734,Pendiente,Mascota pequeña
+Apto Costa 147,Mateo Brown,+1 (305) 555-0134,Booking,900000234,13/01/2027,22/01/2027,2,$2.682,$894,$1.788,Pendiente,
+Apto Costa 147,Isabella García,+1 (305) 555-0135,Directo,D-0235,03/02/2027,10/02/2027,5,"1,932.00",644.00,"1,288.00",Pendiente,
+PH Perla 148,Isabella Dubois,+1 (305) 555-0136,Booking,900000236,20/11/2026,30/11/2026,8,2840,2840,0,Programada,
+PH Perla 148,James Silva,+1 (305) 555-0137,Vrbo,VR-0237,09/12/2026,12/12/2026,6,$861,$574,$287,Pendiente,Cuna solicitada
+PH Perla 148,Sofía García,+1 (305) 555-0138,Directo,D-0238,23/12/2026,02/01/2027,3,"3,390.00","1,130.00","2,260.00",Pendiente,
+PH Perla 148,Oliver Dubois,+1 (305) 555-0139,WhatsApp,WA-0239,11/01/2027,20/01/2027,3,2997,999,1998,Pendiente,
+PH Perla 148,Nicolas Martin,+1 (305) 555-0140,Vrbo,VR-0240,31/01/2027,07/02/2027,6,$2.275,$2.275,$0,Pendiente,
+Casa Brisas 149,Daniel García,+1 (305) 555-0141,Directo,D-0241,23/11/2026,03/12/2026,2,"1,780.00","1,780.00",0.00,Programada,
+Casa Brisas 149,Nicolas Costa,+1 (305) 555-0142,Directo,D-0242,15/12/2026,18/12/2026,1,537,537,0,Pendiente,
+Casa Brisas 149,Sofía Pérez,+1 (305) 555-0143,WhatsApp,WA-0243,28/12/2026,03/01/2027,2,$1.014,$1.014,$0,Pendiente,Entrada anticipada
+Casa Brisas 149,Sofía Torres,+1 (305) 555-0144,Airbnb,HMDEMO0244,11/01/2027,16/01/2027,2,770.00,256.00,514.00,Pendiente,
+Casa Brisas 149,Oliver Torres,+1 (305) 555-0145,Vrbo,VR-0245,24/01/2027,01/02/2027,1,1536,1536,0,Pendiente,
+Villa Coral 150,Lucía Torres,+1 (305) 555-0146,WhatsApp,WA-0246,23/11/2026,28/11/2026,4,$1.130,$1.130,$0,Programada,
+Villa Coral 150,James Costa,+1 (305) 555-0147,WhatsApp,WA-0247,06/12/2026,15/12/2026,3,"2,052.00","2,052.00",0.00,Pendiente,
+Villa Coral 150,Emma López,+1 (305) 555-0148,Vrbo,VR-0248,25/12/2026,30/12/2026,3,1100,1100,0,Pendiente,
+Villa Coral 150,James Dubois,+1 (305) 555-0149,Directo,D-0249,11/01/2027,16/01/2027,3,$1.125,$750,$375,Pendiente,
+Villa Coral 150,Valentina Martin,+1 (305) 555-0150,Directo,D-0250,23/01/2027,02/02/2027,1,"2,350.00","1,566.00",784.00,Pendiente,
+Apto Marina 151,Nicolas Torres,+1 (305) 555-0151,Directo,D-0251,16/11/2026,23/11/2026,2,1834,1834,0,Lista,Mascota pequeña
+Apto Marina 151,Nicolas Pérez,+1 (305) 555-0152,Vrbo,VR-0252,04/12/2026,10/12/2026,2,$1.458,$1.458,$0,Pendiente,Llegada tarde
+Apto Marina 151,Mateo Brown,+1 (305) 555-0153,Vrbo,VR-0253,22/12/2026,01/01/2027,3,"2,590.00",863.00,"1,727.00",Pendiente,
+Apto Marina 151,Valentina Brown,+1 (305) 555-0154,Vrbo,VR-0254,11/01/2027,14/01/2027,6,690,690,0,Pendiente,
+Apto Marina 151,Lucía García,+1 (305) 555-0155,Booking,900000255,24/01/2027,29/01/2027,1,$1.355,$903,$452,Pendiente,
+PH Palmera 152,Isabella Rossi,+1 (305) 555-0156,Airbnb,HMDEMO0256,18/11/2026,28/11/2026,1,"2,970.00","2,970.00",0.00,Programada,
+PH Palmera 152,Sofía Martin,+1 (305) 555-0157,Vrbo,VR-0257,11/12/2026,20/12/2026,2,2808,936,1872,Pendiente,
+PH Palmera 152,Valentina Dubois,+1 (305) 555-0158,WhatsApp,WA-0258,29/12/2026,07/01/2027,8,$3.078,$2.052,$1.026,Pendiente,
+PH Palmera 152,Daniel Costa,+1 (305) 555-0159,Booking,900000259,15/01/2027,18/01/2027,5,885.00,885.00,0.00,Pendiente,
+PH Palmera 152,Lucía López,+1 (305) 555-0160,Booking,900000260,26/01/2027,28/01/2027,3,624,624,0,Pendiente,
+Casa Arena 153,Mateo Brown,+1 (305) 555-0161,WhatsApp,WA-0261,21/11/2026,29/11/2026,1,$1.448,$1.448,$0,Programada,Cuna solicitada
+Casa Arena 153,Isabella López,+1 (305) 555-0162,Vrbo,VR-0262,09/12/2026,16/12/2026,2,980.00,653.00,327.00,Pendiente,
+Casa Arena 153,Lucía Silva,+1 (305) 555-0163,WhatsApp,WA-0263,25/12/2026,31/12/2026,1,846,564,282,Pendiente,Llegada tarde
+Casa Arena 153,Camila Martin,+1 (305) 555-0164,Vrbo,VR-0264,10/01/2027,16/01/2027,1,$1.146,$1.146,$0,Pendiente,
+Casa Arena 153,Valentina Torres,+1 (305) 555-0165,WhatsApp,WA-0265,25/01/2027,01/02/2027,1,"1,176.00",392.00,784.00,Pendiente,
+Villa Sol 154,Camila Costa,+1 (305) 555-0166,Directo,D-0266,24/11/2026,01/12/2026,2,1715,1715,0,Pendiente,Llegada tarde
+Villa Sol 154,Oliver Smith,+1 (305) 555-0167,WhatsApp,WA-0267,12/12/2026,21/12/2026,1,$2.079,$693,$1.386,Pendiente,
+Villa Sol 154,Valentina Silva,+1 (305) 555-0168,WhatsApp,WA-0268,01/01/2027,06/01/2027,4,"1,265.00",421.00,844.00,Pendiente,Cuna solicitada
+Villa Sol 154,Sofía Torres,+1 (305) 555-0169,Airbnb,HMDEMO0269,18/01/2027,27/01/2027,2,2250,1500,750,Pendiente,
+Villa Sol 154,Daniel Costa,+1 (305) 555-0170,WhatsApp,WA-0270,06/02/2027,15/02/2027,3,$1.728,$1.728,$0,Pendiente,
+Apto Bahía 155,Oliver Smith,+1 (305) 555-0171,Airbnb,HMDEMO0271,21/11/2026,27/11/2026,1,"1,542.00","1,542.00",0.00,Programada,
+Apto Bahía 155,Daniel García,+1 (305) 555-0172,WhatsApp,WA-0272,06/12/2026,09/12/2026,3,711,237,474,Pendiente,
+Apto Bahía 155,Daniel Brown,+1 (305) 555-0173,Directo,D-0273,17/12/2026,21/12/2026,4,$1.108,$738,$370,Pendiente,Cuna solicitada
+Apto Bahía 155,Isabella Dubois,+1 (305) 555-0174,Airbnb,HMDEMO0274,02/01/2027,09/01/2027,2,"1,764.00","1,764.00",0.00,Pendiente,
+Apto Bahía 155,Lucía Dubois,+1 (305) 555-0175,Airbnb,HMDEMO0275,17/01/2027,19/01/2027,4,536,357,179,Pendiente,
+PH Olas 156,Valentina Martin,+1 (305) 555-0176,Directo,D-0276,18/11/2026,23/11/2026,4,$1.595,$1.595,$0,Lista,
+PH Olas 156,Sofía López,+1 (305) 555-0177,Airbnb,HMDEMO0277,06/12/2026,09/12/2026,4,984.00,984.00,0.00,Pendiente,Llegada tarde
+PH Olas 156,Nicolas García,+1 (305) 555-0178,Directo,D-0278,20/12/2026,22/12/2026,7,562,187,375,Pendiente,
+PH Olas 156,Camila Martin,+1 (305) 555-0179,Vrbo,VR-0279,30/12/2026,09/01/2027,4,$2.820,$940,$1.880,Pendiente,
+PH Olas 156,Emma Rossi,+1 (305) 555-0180,WhatsApp,WA-0280,20/01/2027,27/01/2027,4,"2,212.00",737.00,"1,475.00",Pendiente,
+Casa Duna 157,Lucía Costa,+1 (305) 555-0181,WhatsApp,WA-0281,19/11/2026,21/11/2026,2,324,324,0,Lista,
+Casa Duna 157,James Brown,+1 (305) 555-0182,Booking,900000282,01/12/2026,03/12/2026,2,$376,$376,$0,Pendiente,Mascota pequeña
+Casa Duna 157,Lucas Martin,+1 (305) 555-0183,WhatsApp,WA-0283,13/12/2026,17/12/2026,1,800.00,266.00,534.00,Pendiente,
+Casa Duna 157,Camila Rossi,+1 (305) 555-0184,Directo,D-0284,24/12/2026,03/01/2027,2,1930,1930,0,Pendiente,Mascota pequeña
+Casa Duna 157,Mateo Dubois,+1 (305) 555-0185,Airbnb,HMDEMO0285,11/01/2027,18/01/2027,1,$1.379,$919,$460,Pendiente,Mascota pequeña
+Villa Cielo 158,Oliver Costa,+1 (305) 555-0186,Airbnb,HMDEMO0286,24/11/2026,26/11/2026,2,418.00,418.00,0.00,Pendiente,
+Villa Cielo 158,Lucas Smith,+1 (305) 555-0187,Booking,900000287,04/12/2026,11/12/2026,4,1302,434,868,Pendiente,Cuna solicitada
+Villa Cielo 158,Isabella Torres,+1 (305) 555-0188,WhatsApp,WA-0288,21/12/2026,26/12/2026,3,$1.130,$753,$377,Pendiente,
+Villa Cielo 158,Mateo Torres,+1 (305) 555-0189,WhatsApp,WA-0289,04/01/2027,11/01/2027,3,"1,736.00","1,157.00",579.00,Pendiente,Mascota pequeña
+Villa Cielo 158,Valentina García,+1 (305) 555-0190,Airbnb,HMDEMO0290,20/01/2027,28/01/2027,3,1704,1704,0,Pendiente,
+Apto Costa 159,Lucas Silva,+1 (305) 555-0191,Booking,900000291,24/11/2026,02/12/2026,2,$1.992,$1.992,$0,Pendiente,
+Apto Costa 159,Daniel Costa,+1 (305) 555-0192,Directo,D-0292,13/12/2026,18/12/2026,6,"1,365.00",910.00,455.00,Pendiente,
+Apto Costa 159,Nicolas Dubois,+1 (305) 555-0193,Booking,900000293,28/12/2026,01/01/2027,4,1004,334,670,Pendiente,Llegada tarde
+Apto Costa 159,Isabella Rossi,+1 (305) 555-0194,Airbnb,HMDEMO0294,12/01/2027,14/01/2027,6,$472,$157,$315,Pendiente,Llegada tarde
+Apto Costa 159,Daniel Silva,+1 (305) 555-0195,Airbnb,HMDEMO0295,26/01/2027,30/01/2027,1,"1,028.00","1,028.00",0.00,Pendiente,
+PH Perla 160,Sofía Dubois,,Directo,D-0296,24/11/2026,03/12/2026,7,2493,2493,0,Pendiente,Llegada tarde
+PH Perla 160,Camila Costa,,WhatsApp,WA-0297,14/12/2026,20/12/2026,7,$1.866,$622,$1.244,Pendiente,Llegada tarde
+PH Perla 160,Oliver Dubois,+1 (305) 555-0198,Vrbo,VR-0298,06/01/2027,27/12/2026,5,"3,050.00","1,016.00","2,034.00",Pendiente,
+PH Perla 160,Daniel Pérez,+1 (305) 555-0199,Airbnb,900000001,15/01/2027,23/01/2027,4,2576,1717,859,Pendiente,
+PH Perla 160,Isabella Brown,+1 (305) 555-0100,Airbnb,HMDEMO0002,31/01/2027,06/02/2027,7,$1.674,$558,$1.116,Pendiente,
