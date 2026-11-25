@@ -300,3 +300,28 @@ do $$ begin
     alter publication supabase_realtime add table public.notifications;
   end if;
 end $$;
+
+-- ------------------------------------------------------------------ team list (emails live in auth.users, which hosts can't read)
+create or replace function public.get_team()
+returns table (user_id uuid, email text, role public.member_role, joined_at timestamptz, is_me boolean)
+language sql stable security definer set search_path = public as $$
+  select m.user_id, u.email::text, m.role, m.created_at, m.user_id = auth.uid()
+  from organization_members m join auth.users u on u.id = m.user_id
+  where m.organization_id in (select organization_id from organization_members where user_id = auth.uid())
+  order by m.created_at;
+$$;
+revoke all on function public.get_team() from public;
+grant execute on function public.get_team() to authenticated;
+
+-- Owners can remove teammates (never themselves).
+create or replace function public.remove_member(p_user uuid)
+returns void language plpgsql security definer set search_path = public as $$
+declare v_org uuid;
+begin
+  select organization_id into v_org from organization_members where user_id = auth.uid() and role = 'owner' limit 1;
+  if v_org is null then raise exception 'only_owners' using errcode = '42501'; end if;
+  if p_user = auth.uid() then raise exception 'cannot_remove_self' using errcode = '22023'; end if;
+  delete from organization_members where organization_id = v_org and user_id = p_user;
+end $$;
+revoke all on function public.remove_member(uuid) from public;
+grant execute on function public.remove_member(uuid) to authenticated;
